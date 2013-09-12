@@ -6,10 +6,12 @@ A collection of SVG snippets for Sublime 2 and 3 (Time Saver!)
 
 HOW TO INSTALL
 ==============
-Browse to the following path on your UNIX system. Make sure you change the YOUR_USERNAME placeholder
-with your current user.
+Browse to the following path on your UNIX system. Make sure you replace the YOUR_USERNAME placeholder
+with your system user. If you use Sublime 2 just change it in the path.
+
+
 ```bash
-cd /Users/YOUR_USERNAME/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
+cd /Users/YOUR_USERNAME/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
 ```
 
 If the folder 'HTML' or 'SVG' doesn't exisit inside of this folder, create it:
@@ -62,7 +64,7 @@ path + TAB    ==> <path ....
 line + TAB    ==> <line ....
 line + TAB    ==> <polyline ....
 group + TAB   ==> <g ....
-text + TAB   ==> <text ....
+text + TAB    ==> <text ....
 tspan + TAB   ==> <tspan ....
 
   
