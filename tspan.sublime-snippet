@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<tspan x="0" y="0" dx="0" dy="">${1:Lorem Ipsum}</tspan>]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>tspan</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+</snippet>

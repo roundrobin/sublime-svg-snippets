@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<g transform="${1: translate(0,0)}">${2}</g>]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>group</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+</snippet>

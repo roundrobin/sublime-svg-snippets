@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<rect x="0" y="0" width="${1:50px}" height="${2:50px}" fill="#BBCD71"></rect>]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>rect</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+</snippet>

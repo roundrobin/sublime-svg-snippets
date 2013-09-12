@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<line x1="${1:0}px" x2="${2:100}px" y1="${3:0}px" y2="${4:0}px" stroke="#000000" stroke-width="3px"></line>${5}]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>line</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+</snippet>

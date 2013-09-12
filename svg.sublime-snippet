@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<svg width="${1:100%}" height="${2:100%}" viewBox="0 0 ${3:200} ${4:200}" preserveAspectRatio="${5:xMidYMid}">${6}</svg>]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>svg</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+</snippet>

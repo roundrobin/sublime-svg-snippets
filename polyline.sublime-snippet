@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<polyline points="${1:20,20 40,25 60,40 80,120 120,140 200,180}" style="fill:none;stroke:black;stroke-width:3" />${2}]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>polyline</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+</snippet>
