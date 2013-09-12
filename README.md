@@ -12,14 +12,16 @@ with your current user.
 cd /Users/YOUR_USERNAME/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
 ```
 
-If the folder 'JavaScript' doesn't exisits inside of this folder, create it:
+If the folder 'HTML' or 'SVG' doesn't exisit inside of this folder, create it:
 ```bash
 mkdir HTML
+```
 
 or
 
 ```bash
 mkdir SVG
+```
 
 I put my SVG snippets in HTML because I like to access them within an HTML file.
 
